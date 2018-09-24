@@ -1,9 +1,8 @@
 <html lang="hu">
   <head>
     <meta charset="utf-8">
-      <link rel="stylesheet" href="kulso.css" type="text/css"> 
   </head>
-  <body bgcolor="gray">
+  <body bgcolor="black">
       <h1 align="center"><strong>  Démonok között  </strong></h1>
       <hr>
       <h2 align="left"><i> Bevezetés </i></h2>
