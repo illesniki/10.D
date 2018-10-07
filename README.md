@@ -3,7 +3,7 @@
     <meta charset="utf-8">
     <link rel="stylesheet" type="text/css" href="web.css">
   </head>
-  <body bgcolor="black">
+  <body>
       <h1 align="center"><strong>  Démonok között  </strong></h1>
       <hr>
       <h2 align="left"><i> Bevezetés </i></h2>
